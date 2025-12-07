@@ -509,5 +509,6 @@ ng generate directive|pipe|service|class|guard|interface|enum|module
 ## License
 
 This project is for educational purposes.
-#   E v e n t H u b P l a t f o r m  
+#   E v e n t H u b P l a t f o r m 
+ 
  
